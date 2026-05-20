@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Hitesh Pant
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=3B82F6&center=true&vCenter=true&width=750&lines=Python+Developer;B.Tech+Student;Open+Source+Learner;Building+Cool+Projects;Future+Entrepreneur+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=3B82F6&center=true&vCenter=true&width=750&lines=Python+Developer;B.Tech+Student;Building+Cool+Projects;Tech+Enthusiast+🚀" />
 
 </div>
 
@@ -88,12 +88,3 @@
 </div>
 
 ---
-
-/*# ⚡ Fun Code
-
-```python
-while(alive):
-    eat()
-    sleep()
-    code()
-    repeat() */
