@@ -11,7 +11,7 @@
 # 🚀 About Me
 
 - 🎓 B.Tech Student at Quantum University
-- 🌱 Currently learning Web Development & Python
+- 🌱 Currently learning Data Analytics & Python
 - 💻 Interested in Software Development & Startups
 - 🚀 Building projects and improving skills every day
 - 📚 Exploring Open Source & GitHub
@@ -89,11 +89,11 @@
 
 ---
 
-# ⚡ Fun Code
+/*# ⚡ Fun Code
 
 ```python
 while(alive):
     eat()
     sleep()
     code()
-    repeat()
+    repeat() */
