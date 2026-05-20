@@ -63,7 +63,7 @@
 
 # 🌟 Featured Projects
 
-- 🎮 Hangman Game using Python
+- <a href='https://github.com/itshiteshtech/Hangman-Game.git'>🎮 Hangman Game using Python</a>
 - 📈 Stock Portfolio Tracker
 - 🌐 More exciting projects coming soon...
 
